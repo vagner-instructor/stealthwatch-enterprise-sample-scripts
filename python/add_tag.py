@@ -91,7 +91,6 @@ if(response.status_code == 200):
             "suppressExcludedServices": True,
             "inverseSuppression": False,
             "hostTrap": False,
-            "sendToCta": False,
             "parentId": 0
         }
     ]
